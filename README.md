@@ -60,7 +60,7 @@ Explorando novas techs e tentando escrever código menos vergonhoso que o de ont
 #
 
 <a href="https://https://github.com/GustavoM4tias" title="Gustavo Diniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoM4tias&theme=rose&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoM4tias&theme=github_dark&show_icons=true" />
 </a>
 
 <a href="https://https://github.com/GustavoM4tias" title="Linguagens mais usadas">
